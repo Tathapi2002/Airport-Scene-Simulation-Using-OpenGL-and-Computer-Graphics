@@ -1,0 +1,2 @@
+# Airport-Scene-Simulation-Using-OpenGL-and-Computer-Graphics
+This project is a computer graphics–based simulation developed using C++ and OpenGL (GLUT). It presents an animated airport scene with runways, airplanes, clouds, and human movement. The simulation uses motion, rotation, translation, and sound effects to demonstrate core concepts of 2D/3D graphics rendering, animation, and multimedia integration.
